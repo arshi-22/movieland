@@ -1,0 +1,21 @@
+.social-footer {
+  display: flex;
+  margin: -4rem 33rem;
+  padding: 2rem 7rem;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+}
+.icons {
+  width: 20%;
+}
+.github-icons {
+  width: 65%;
+}
+.copyright {
+  margin: 4rem;
+  text-align: center;
+}
+
